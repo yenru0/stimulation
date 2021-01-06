@@ -5,3 +5,6 @@
 
 ## wave simul
 [참조](https://angeloyeo.github.io/2019/08/29/Heat_Wave_Equation.html)
+
+
+## soft interpolation
