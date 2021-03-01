@@ -1,2 +1,10 @@
 .idea
 .ipynb_checkpoints
+
+/out/
+/img/
+
+# specified
+/dataset/english_word_frequency/suneungs/
+/dataset/english_word_frequency/englsih_texts/
+/resources/
