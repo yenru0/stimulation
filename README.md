@@ -10,6 +10,8 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 import matplotlib.ticker as ticker
 import IPython.display
+
+plt.rcParams['font.family'] = ["D2Coding"]
 ```
 
 #### out 패스를 포함하는
